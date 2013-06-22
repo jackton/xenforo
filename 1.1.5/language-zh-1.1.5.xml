@@ -42,7 +42,7 @@
     <phrase title="add_additional_answer" addon_id="XenForo" version_id="1000070" version_string="1.0.0"><![CDATA[添加额外的答案]]></phrase>
     <phrase title="add_additional_choice" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[添加额外选择]]></phrase>
     <phrase title="add_additional_response" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[增加选项]]></phrase>
-    <phrase title="add_another_admin" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[添加另一个管理员]]></phrase>
+    <phrase title="add_another_admin" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[添加新管理员]]></phrase>
     <phrase title="add_bb_code_media_site" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[增加 BB Code 视频站点]]></phrase>
     <phrase title="add_child" addon_id="XenForo" version_id="1000070" version_string="1.0.0"><![CDATA[添加子版块]]></phrase>
     <phrase title="add_moderator" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[添加版主]]></phrase>
@@ -2088,7 +2088,7 @@ No promotion history meeting that criteria can be found。]]></phrase>
     <phrase title="option_autoEmbedMedia_explain" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[启用此选项，系统将自动嵌入用户输入的有效的视频网站链接中的视频内容。如果您选择嵌入媒体，媒体内容可能在信息引时出现重复。]]></phrase>
     <phrase title="option_boardActive" addon_id="XenForo" version_id="1000070" version_string="1.0.0"><![CDATA[论坛开放]]></phrase>
     <phrase title="option_boardActive_explain" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[是否开放论坛]]></phrase>
-    <phrase title="option_boardDescription" addon_id="XenForo" version_id="1000070" version_string="1.0.0"><![CDATA[Meta 描述]]></phrase>
+    <phrase title="option_boardDescription" addon_id="XenForo" version_id="1000070" version_string="1.0.0"><![CDATA[论坛描述]]></phrase>
     <phrase title="option_boardDescription_explain" addon_id="XenForo" version_id="1000070" version_string="1.0.0"><![CDATA[为所有页面输入 Meta 描述，内容显示在论坛主页的meta标签description属性中，以便能够在搜索引擎中正确搜索到您的论坛。]]></phrase>
     <phrase title="option_boardInactiveMessage" addon_id="XenForo" version_id="1000070" version_string="1.0.0"><![CDATA[论坛关闭原因]]></phrase>
     <phrase title="option_boardInactiveMessage_explain" addon_id="XenForo" version_id="1000070" version_string="1.0.0"><![CDATA[论坛关闭时的提示信息，可以使用HTML代码。]]></phrase>
@@ -2822,7 +2822,7 @@ Note that account changes such as bans will not be reflected by this system. You
     <phrase title="purchased_upgrades" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[已购买的升级]]></phrase>
     <phrase title="puts_user_in_selected_groups_while_upgrade_is_active" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[升级生效后将用户添加至目标用户组。]]></phrase>
     <phrase title="question" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[问题]]></phrase>
-    <phrase title="question_and_answer_captchas" addon_id="XenForo" version_id="1000070" version_string="1.0.0"><![CDATA[问题与答案验证]]></phrase>
+    <phrase title="question_and_answer_captchas" addon_id="XenForo" version_id="1000070" version_string="1.0.0"><![CDATA[验证问题及答案设置]]></phrase>
     <phrase title="question_import_choice" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Question Import Choice]]></phrase>
     <phrase title="question_import_choice_explain" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[In the event that multiple questions are found in a single poll, would you prefer to import the first, or the last question found？]]></phrase>
     <phrase title="question_is_active" addon_id="XenForo" version_id="1000070" version_string="1.0.0"><![CDATA[问题可用]]></phrase>
